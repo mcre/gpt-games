@@ -5,7 +5,7 @@ gpt-games
 
 ## あそびかた
 
-[ChatGPT](https://chat.openai.com/)のGPT-4モデルに、各ゲームの`prompt.md`の内容をペーストすることでゲームを開始できます。
+[ChatGPTのGPT-4モデル](https://chat.openai.com/chat?model=gpt-4)に、各ゲームの`prompt.md`の内容をペーストすることでゲームを開始できます。
 
 ゲームの内容は`README.md`をご確認してください。
 
