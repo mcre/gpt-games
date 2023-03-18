@@ -1,14 +1,18 @@
-安楽椅子探偵
+安楽椅子探偵ゲーム『雪蓮荘殺人事件』
 ====================
 
 
 ## ゲーム概要
 
-山荘で殺人事件が発生しました。そのとき山荘にいたのは、プレイヤーの助手、被害者、ほか3名の合計5名です。プレイヤーは助手にチャットで助言や指示を送ることで、助手と協力して事件の解決に挑みます。
+あなたは探偵です。たったいま、あなたの助手は冬の山荘『雪蓮荘』での殺人事件に偶然遭遇しました。あなたは助手と連絡を取り合い、協力して事件の解決に挑みます。
 
 ## あそびかた
 
-[ChatGPT](https://chat.openai.com/)のGPT-4モデルに、[prompt.md](https://raw.githubusercontent.com/mcre/gpt-games/main/armchair-detective/prompt.md) の内容をペーストすることでゲームを開始できます。
+[ChatGPTのGPT-4モデル](https://chat.openai.com/chat?model=gpt-4)に、[prompt.md](https://raw.githubusercontent.com/mcre/gpt-games/main/armchair-detective/prompt.md) の内容をペーストすることでゲームを開始できます。
+
+## サンプルプレイ
+
+[こちらの記事](https://note.com/m_cre/n/n6a18edcaf302)にサンプルプレイのログを記載しました。
 
 ## (参考) プロンプト生成
 
