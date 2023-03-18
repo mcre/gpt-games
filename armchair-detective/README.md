@@ -8,7 +8,7 @@
 
 ## あそびかた
 
-[ChatGPT](https://chat.openai.com/)のGPT-4モデルに、[prompt.md](prompt.md) の内容をペーストすることでゲームを開始できます。
+[ChatGPT](https://chat.openai.com/)のGPT-4モデルに、[prompt.md](https://raw.githubusercontent.com/mcre/gpt-games/main/armchair-detective/prompt.md) の内容をペーストすることでゲームを開始できます。
 
 ## (参考) プロンプト生成
 
